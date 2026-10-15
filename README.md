@@ -1,4 +1,4 @@
-![LinkedIn Banner1.png]()
+![LinkedIn Banner1.png](https://github.com/Bayanmulla225/Bayanmulla225/blob/main/LinkedIn%20Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Bayan Mulla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
